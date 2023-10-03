@@ -1,0 +1,27 @@
+ div{
+    background-color: rgb(94, 94, 88);
+ }
+h1{
+    text-align: center;
+    color:red  
+}
+h2{
+    text-align: center;
+    color:rgb(3, 10, 67)
+}
+h3{
+    text-align: left;
+    color:rgb(9, 10, 18);
+    
+    
+}
+h3{
+     background-color:blue ;
+}
+hr{
+    background-color:blue ;
+}
+.hr1{
+    margin-top: 60px;
+
+}
